@@ -41,7 +41,7 @@ export const AppRouter = () => {
 
         })
 
-    }, [])
+    }, [dispatch])
 
 
     if( isLoading ) {
